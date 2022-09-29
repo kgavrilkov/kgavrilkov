@@ -31,4 +31,5 @@
 <h3>Инструменты:</h3>
 <div>
   <img src='./VS Code.svg' width='40' height='40' alt='VS Code' />
+  <img src='./GNU Bash.svg' width='40' height='40' alt='GNU Bash' />
 </div>
