@@ -30,5 +30,5 @@
 </div>
 <h3>Инструменты:</h3>
 <div>
-  
+  <img src='./VS Code.svg' width='40' height='40' alt='VS Code' />
 </div>
