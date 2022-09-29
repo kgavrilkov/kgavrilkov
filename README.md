@@ -33,4 +33,5 @@
   <img src='./VS Code.svg' width='40' height='40' alt='VS Code' />
   <img src='./GNU Bash.svg' width='40' height='40' alt='GNU Bash' />
   <img src='./Cit.svg' width='40' height='40' alt='Git' />
+  <img src='./MongoDB.svg' width='40' height='40' alt='MongoDB' />
 </div>
