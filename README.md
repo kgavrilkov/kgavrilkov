@@ -26,4 +26,5 @@
   <img src='./Redux.svg' width='40' height='40' alt='Redux' />
   <img src='./TypeScript.svg' width='40' height='40' alt='TypeScript' />
   <img src='./Node.js.svg' width='40' height='40' alt='Node.js' />
+  <img src='./Express.svg' width='40' height='40' alt='Express' />
 </div>
