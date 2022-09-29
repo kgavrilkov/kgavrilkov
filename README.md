@@ -34,4 +34,5 @@
   <img src='./GNU Bash.svg' width='40' height='40' alt='GNU Bash' />
   <img src='./Cit.svg' width='40' height='40' alt='Git' />
   <img src='./MongoDB.svg' width='40' height='40' alt='MongoDB' />
+  <img src='./Jest.svg' width='40' height='40' alt='Jest' />
 </div>
