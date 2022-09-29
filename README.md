@@ -19,3 +19,4 @@
   </li>
 </ul>
 <h3>Стек:</h3>
+<img src='./HTML5.svg' alt='HTML5' />
