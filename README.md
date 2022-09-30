@@ -38,3 +38,4 @@
   <img src='./Cypress.svg' width='40' height='40' alt='Cypress' />
   <img src='./Figma.svg' width='40' height='40' alt='Figma' />
 </div>
+<h3>Статистика:</h3>
