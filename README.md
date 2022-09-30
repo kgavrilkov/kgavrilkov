@@ -39,5 +39,7 @@
   <img src='./Figma.svg' width='40' height='40' alt='Figma' />
 </div>
 <h3>Статистика:</h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgavrilkov)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img style='height: auto; width: 50%' src='https://github-readme-stats.vercel.app/api?username=kgavrilkov' alt='Статистика' />
+  <img style='height: auto; width: 49%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kgavrilkov&layout=compact' alt='Языки' />
+</div>
