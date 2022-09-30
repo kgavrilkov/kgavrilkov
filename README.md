@@ -39,3 +39,5 @@
   <img src='./Figma.svg' width='40' height='40' alt='Figma' />
 </div>
 <h3>Статистика:</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgavrilkov)](https://github.com/anuraghazra/github-readme-stats)
