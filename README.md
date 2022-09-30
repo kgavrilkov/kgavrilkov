@@ -32,7 +32,7 @@
 <div>
   <img src='./VS Code.svg' width='40' height='40' alt='VS Code' />
   <img src='./GNU Bash.svg' width='40' height='40' alt='GNU Bash' />
-  <img src='./Cit.svg' width='40' height='40' alt='Git' />
+  <img src='./Git.svg' width='40' height='40' alt='Git' />
   <img src='./MongoDB.svg' width='40' height='40' alt='MongoDB' />
   <img src='./Jest.svg' width='40' height='40' alt='Jest' />
   <img src='./Cypress.svg' width='40' height='40' alt='Cypress' />
