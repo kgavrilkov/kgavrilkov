@@ -3,7 +3,7 @@
 </h1>
 <div align='center'>
   <a href='https://t.me/k_gavrilkov'>
-    <img src='./Telegram.svg' width='20' height='20' alt='Telegram' />
+    <img src='./Telegram.svg' width='25' height='25' alt='Telegram' />
   </a>
 </div>
 <ul>
