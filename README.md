@@ -3,10 +3,10 @@
 </h1>
 <div align='center'>
   <a href='https://t.me/k_gavrilkov'>
-    <img src='./Telegram.svg' width='25' height='25' alt='Telegram' />
+    <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='Telegram' />
   </a>
   <a href='http://linkedin.com/in/kirill-gavrilkov'>
-    <img src='./LinkedIn.svg' width='25' height='25' alt='LinkedIn' />
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' />
   </a>
 </div>
 <ul>
