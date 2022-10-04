@@ -3,10 +3,9 @@
 </h1>
 <div align='center'>
   <a href='https://t.me/k_gavrilkov'>
-    <img src='./Telegram.svg' width='30' height='30' alt='Telegram' />
+    <img src='./Telegram.svg' width='20' height='20' alt='Telegram' />
   </a>
 </div>
-
 <ul>
   <li>
     🖥 Стремлюсь участвовать в разработке новых продуктов или совершенствовании существующих.
