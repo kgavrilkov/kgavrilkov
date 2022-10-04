@@ -5,6 +5,9 @@
   <a href='https://t.me/k_gavrilkov'>
     <img src='./Telegram.svg' width='25' height='25' alt='Telegram' />
   </a>
+  <a href='http://linkedin.com/in/kirill-gavrilkov'>
+    <img src='./LinkedIn.svg' width='25' height='25' alt='LinkedIn' />
+  </a>
 </div>
 <ul>
   <li>
